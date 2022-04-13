@@ -1,2 +1,3 @@
 # Scientific-Programming
--  The folder with the *solutions* for the __assignments__ and __exercies__  of the Scientific-Programming course.
+
+- The folder with the _solutions_ for the **assignments** and **exercies**[https://web.stanford.edu/~schmit/cme193/ex/exercises.pdf] of the Scientific-Programming course that uses Stanford CME 193.
